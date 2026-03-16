@@ -2,7 +2,7 @@ Data files (InterspecificInterindividualVariationData.RDS and AnnualVariationDat
 
 # Data file descriptions (can also be found within the code):
 ## InterspecificInterindividualVariationData.RDS
-  ## data for quantifying interspecific and interindividual variation in spring migration strategy and carryover effects
+  _data for quantifying interspecific and interindividual variation in spring migration strategy and carryover effects_
   - individual: individual identifier (transmitter ID number)
   - species: abdu = American Black Duck, atbr = Atlantic Brant, grsc = Greater Scaup
   - sex: F = female, M = male
@@ -20,7 +20,7 @@ Data files (InterspecificInterindividualVariationData.RDS and AnnualVariationDat
   - area.sqkm: winter home range (95% wAKDE) size (km^2)
 
 ## AnnualVariationData.RDS
-  ## data for quantifying annual variation in spring migration strategy
+  _data for quantifying annual variation in spring migration strategy_
   - individual: individual identifier (transmitter ID number)
   - sex: F = female, M = male
   - age: ASY = after second year (adult), SY = second year (juvenile)
