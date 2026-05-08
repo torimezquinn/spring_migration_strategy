@@ -1,5 +1,8 @@
 Data files (InterspecificInterindividualVariationData.RDS and AnnualVariationData.RDS) and code (SpringMigStrategyCode) associated with Journal of Avian Biology manuscript "Spring migration strategies differ among three waterfowl species that winter in southern New England, USA". These methods were used to investigate interspecific and intraspecific variation in spring migration strategy of 3 sympatric-wintering waterfowl.
 
+# Please cite manuscript as:
+Mezebish Quinn, T., Paton, P. W., Kilburn, J. E., and McWilliams, S. R. 2026. Spring migration strategies differ among three waterfowl species that winter in southern New England, USA. - J. Avian Biol.: e03571. https://doi.org/10.1002/jav.03571
+
 # Data file descriptions (can also be found within the code):
 ## InterspecificInterindividualVariationData.RDS
   _data for quantifying interspecific and interindividual variation in spring migration strategy and carryover effects_
@@ -16,8 +19,6 @@ Data files (InterspecificInterindividualVariationData.RDS and AnnualVariationDat
   - avg.stopdur: average duration (days) of unique stopover events
   - prop.stop: proportion of migration time (days) spent in stopover; total stopover duration divided by migration duration
   - stop.travel.rat: stopover to travel ratio (days/km); total number of days stopped over divided total migration distance
-  - wint.daydist.km: average daily winter movement distance (km)
-  - area.sqkm: winter home range (95% wAKDE) size (km^2)
 
 ## AnnualVariationData.RDS
   _data for quantifying annual variation in spring migration strategy_
@@ -33,6 +34,3 @@ Data files (InterspecificInterindividualVariationData.RDS and AnnualVariationDat
   - avg.stopdur: average duration (days) of unique stopover events
   - prop.stop: proportion of migration time (days) spent in stopover; total stopover duration divided by migration duration
   - stop.travel.rat: stopover to travel ratio (days/km); total number of days stopped over divided total migration distance
-
-# Please cite as:
-Mezebish Quinn, T., Paton, P. W., Kilburn, J. E., and McWilliams, S. R. 2026. Spring migration strategies differ among three waterfowl species that winter in southern New England, USA. - J. Avian Biol.
